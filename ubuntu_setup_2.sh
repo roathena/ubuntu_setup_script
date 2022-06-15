@@ -9,6 +9,7 @@ echo "Setting aliases and finishing zsh setup"
 sleep 2
 
 sudo rm -rf ~/.zshrc
+sleep 1
 wget https://raw.githubusercontent.com/roathena/ubuntu_setup_script/main/.zshrc
 source ~/.zshrc
 
