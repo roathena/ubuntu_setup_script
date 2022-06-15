@@ -1,0 +1,7 @@
+alias themesdir="cd ~/.oh-my-zsh/themes/"
+alias cls="clear"
+alias pkgio="sudo apt-fast install -y"
+alias pkgi="sudo apt-fast install"
+alias update="sudo apt update"
+alias upgrade="sudo apt-fast upgrade"
+alias dist-upgrade="sudo apt-fast dist-upgrade"
