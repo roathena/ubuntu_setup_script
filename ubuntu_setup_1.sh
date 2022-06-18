@@ -19,4 +19,4 @@ touch ~/.zshrc
 sudo apt-fast install -y wget git
 echo "rebooting the system, pls run the part 2 of the script after reboot..."
 sleep 5
-exit
+sudo reboot
