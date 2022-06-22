@@ -21,4 +21,4 @@ sleep 2
 echo "Rebooting the system, after reboot run part 3 of the install script"
 sleep 2
 
-sudo reboot
+exit
