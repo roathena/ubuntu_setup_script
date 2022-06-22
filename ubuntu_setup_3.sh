@@ -30,4 +30,4 @@ echo "All done..."
 sleep 1
 echo "Thankyou for using the script, rebooting the system..."
 sleep 2
-sudo reboot
+exit
